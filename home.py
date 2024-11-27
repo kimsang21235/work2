@@ -6,8 +6,8 @@ import matplotlib.pyplot as plt
 import matplotlib as mpl
 import seaborn as sns
 import matplotlib.font_manager as fm
-key=st.secrets['key']
-
+# key=st.secrets['key']
+key='U4h0TZSTDzQauISmR6IctFS0UqsenGEDb0oSkddjnAfI5Q6HJFsOZSV3SMWCRsHRMwBsJdUXLMcsdzvJU8UQbw=='
 st.header('첫 홈페이지입니다')
 
 url='http://api.sexoffender.go.kr/openapi/SOCitysStats/'
